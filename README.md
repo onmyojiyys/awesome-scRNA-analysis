@@ -10,5 +10,7 @@
   - Augur: Prioritization of cell types responsive to biological perturbations in single-cell data with Augur
 
 ### pseudotime analysis
+---
 - ##### estimating differentiation potency
+---
   - CCAT: Ultra-fast scalable estimation of single-cell differentiation potency from scRNA-Seq data
