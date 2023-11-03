@@ -1,9 +1,15 @@
 # awesome-scRNA-analysis
 
+### visualization
+---
+- ##### Doheatmap
+  - Scillus: https://github.com/xmc811/Scillus
+
 ### analysis pipeline
 ---
 - ##### R
   - SingCellaR: Processing single-cell RNA-seq datasets using SingCellaR
+  - Scillus: https://github.com/xmc811/Scillus
 
 ### identifying tumor cells
 ---
@@ -22,10 +28,14 @@
 - ##### estimating differentiation potency
   - CCAT: Ultra-fast scalable estimation of single-cell differentiation potency from scRNA-Seq data
 
+- ###### pseudotime analysis
+  - Cellrank: CellRank for directed single-cell fate mapping
+
 ### geneset analysis
 ---
 - ##### Gene set activity
   - SCPA: Systematic single-cell pathway analysis to characterize early T cell activation
+  - irGSEA: https://github.com/chuiqin/irGSEA
  
 ### cell cycle
 ---
