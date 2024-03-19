@@ -1,5 +1,15 @@
 # awesome-scRNA-analysis
 
+### integration method
+---
+- #### scDREAMER
+  - scDREAMER for atlas-level integration of single-cell datasets using deep generative model paired with adversarial classifier
+
+### auto annotation
+---
+- #### CellSTAR
+  - CellSTAR: a comprehensive resource for single-cell transcriptomic annotation
+
 ### visualization
 ---
 - ##### Doheatmap
@@ -41,3 +51,8 @@
 ---
 - ##### cell cycle
   - tricycle: Universal prediction of cell-cycle position using transfer learning
+ 
+### cell align across Atlas
+---
+- #### CellHint
+  - Automatic cell-type harmonization and integration across Human Cell Atlas datasets
