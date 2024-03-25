@@ -56,3 +56,8 @@
 ---
 - #### CellHint
   - Automatic cell-type harmonization and integration across Human Cell Atlas datasets
+ 
+### sEV analysis
+---
+- #### SEVtras
+  - SEVtras delineates small extracellular vesicles at droplet resolution from single-cell transcriptomes
